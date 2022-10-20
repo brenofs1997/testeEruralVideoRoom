@@ -63,3 +63,7 @@ body {
     background: rgb(56, 3, 3);
     cursor: pointer;
   }
+  .video{
+    height:40%;
+     width:50%;
+  }
